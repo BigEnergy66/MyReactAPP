@@ -1,9 +1,9 @@
 import React from 'react';
-import { Navbar } from './components/Navbar';
-import { Hero } from './components/Hero';
-import { ProductShowcase } from './components/ProductShowcase';
-import { QuoteForm } from './components/QuoteForm';
-import { Footer } from './components/Footer';
+import { Navbar } from './Components/Navbar';
+import { Hero } from './Components/Hero';
+import { ProductShowcase } from './Components/ProductShowcase';
+import { QuoteForm } from './Components/QuoteForm';
+import { Footer } from './Components/Footer';
 
 const App: React.FC = () => {
   return (

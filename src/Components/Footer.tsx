@@ -10,7 +10,7 @@ export const Footer: React.FC = () => {
           <span className="font-bold tracking-tighter text-sm uppercase">PureForm Labs</span>
         </div>
         <div className="text-[10px] text-slate-400 uppercase tracking-widest">
-          © 2026 Precision Engineering. All Rights Reserved.
+          © 2026 Michael Rapagadie. Web examples.
         </div>
         <div className="flex gap-6 text-[10px] text-slate-400 uppercase tracking-widest">
           <a href="#" className="hover:text-slate-900">Privacy</a>
